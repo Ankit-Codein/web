@@ -1,0 +1,160 @@
+body {
+	margin: 0;
+}
+
+.full {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.half {
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid red;
+}
+
+.nevbar {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px;
+}
+
+.logo {
+	margin-right: 0px;
+}
+
+.links a {
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 9px;
+	color: black;
+/*	font-weight: 800px;*/
+}
+
+.links a:hover {
+	background: blueviolet;
+	color: white;
+}
+
+/* ======================== stage 2 ===============================*/
+
+.full-2 {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.half-2 {
+	width: 80%;
+	display: flex;
+/*	justify-content: center;*/
+	align-items: center;
+	border: 2px solid red;
+}
+
+.stage_2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 50px;
+}
+
+.heading {
+	width: 600px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.text p {
+	font-family: sans-serif;
+}
+
+.firstNumber {
+	display: flex;
+	align-items: center;
+/*	gap: 10;*/
+}
+
+.number {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.firstNumber span {
+	font-size: 28px;
+	font-family: sans-serif;
+	gap: 10px;
+}
+
+.txt {
+	width: 100px;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.lineimage {
+/*	padding: 20px 20px;*/
+}
+
+.girlimage {
+	width: 500px;
+}
+
+
+
+/* ======================== stage 3 ===============================*/
+
+
+.head {
+	font-family: sans-serif;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.web {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	gap: 25px;
+}
+
+.web p {
+	width: 350px;
+}
+
+.web img {
+	display: flex;
+	justify-content: center;
+	align-items: center	;
+	width: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
